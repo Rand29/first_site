@@ -1,0 +1,25 @@
+h1{
+  color: green;
+}
+body{
+
+  font-size: 16px;
+  font-weight: Normal;
+  color: blue;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+
+.button{
+  background-color: #020D7D;
+  color: #66E123;
+  padding:10px 15px;
+  border:none;
+  }
+
+.button:hover{
+    background: black;
+    color: white;
+  }
